@@ -1,7 +1,6 @@
 # EMUpocket
-# Desenvolvimento de um Emulador Portátil
 
-## Descrição do Projeto
+## Desenvolvimento de um Emulador Portátil
 
 O projeto consiste em desenvolver um emulador portátil utilizando um Raspberry Pi Zero W conectado a uma tela de 7 polegadas através dos GPIOs. Será projetada uma placa que fará a conexão entre a tela e o Raspberry Pi, e a carcaça do emulador será projetada e impressa em uma impressora 3D. Além disso, será desenvolvido um circuito com uma bateria de 3,7V com um elevador de tensão para fornecer energia ao sistema. A parte de controle do emulador será feita por meio da adaptação de um controle USB, e a implementação da parte de áudio ainda está em fase de análise.
 
